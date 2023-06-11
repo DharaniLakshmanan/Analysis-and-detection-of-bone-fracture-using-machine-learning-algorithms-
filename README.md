@@ -3,9 +3,15 @@ A person’s skeleton is built upon a framework of bones. The minerals necessary
 Dataset from universe roboflow was collected and the dataset was updated on Aug 30, 2022. The dataset contains a variety of different fracture types. The images have been labeled with different fracture features and characteristics, such as Line, Messed up Angle, Angle,fractured and so on. This Dataset is split into Train, Test and Valid. This study was conducted using the same step-by-step approach as described below.
 
 Step-1: Required x-ray image data is collected from universe roboflow website.
+
 Step-2: The Approach for the study has been outlined and developed.
+
 Step-3: Performed Image Scaling, Image Augmentation, and Pre-Processing procedures such as Grayscale conversion and Gaussian blur Image Smoothing.
+
 Step-4: For Image Segmentation 4 types of Edge detection methods and Entropy methods were used.
+
 Step-5: Features were extracted using VGG16
+
 Step-6: Machine learning techniques such as k-Nearest Neighbor, Support Vector Ma- chine, Gaussian NB, Decision Trees,Random Forest classifier and Ensemble Learning were used.
+
 Step-7: The final conclusion is stated.
